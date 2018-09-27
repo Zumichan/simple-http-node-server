@@ -1,0 +1,7 @@
+//This text was written by running node main.js in command line and by going to localhost:3000 in the browser.
+//Messages in the command line 
+//server is listening on 3000
+//File saved successfully
+
+
+Hello to this great world
